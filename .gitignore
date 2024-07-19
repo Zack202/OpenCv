@@ -10,3 +10,5 @@ res10_300x300_ssd_iter_140000_fp16.caffemodel
 coco_class_labels.txt
 tf_text_graph_ssd.py
 models
+model
+pose_deploy_linevec_faster_4_stages.prototxt
